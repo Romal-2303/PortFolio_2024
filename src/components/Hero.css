@@ -1,0 +1,12 @@
+.stoic_image {
+  width: 300px;
+  position: absolute;
+  right: 4rem;
+  bottom: 2rem;
+}
+
+@media only screen and (max-width: 1000px) {
+  .stoic-image-container {
+    opacity: 0;
+  }
+}
