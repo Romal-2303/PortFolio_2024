@@ -190,7 +190,7 @@ const projects = [
     id: "project-3",
     name: "Geo-Guesser",
     description:
-      "A guessing game built in react offering a rich quiz experience.",
+      "A geography quiz game built in react offering a rich quiz experience.",
     tags: [
       {
         name: "nextjs",
