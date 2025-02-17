@@ -40,7 +40,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]"
       >
-        Dynamic and detail-oriented Frontend Developer with 2 years of
+        Dynamic and detail-oriented Frontend Developer with 3 years of
         experience in building sophisticated and responsive web applications.
         Proficient in HTML/CSS, SCSS, JavaScript, TypeScript, React, Python, and
         Django. Demonstrates a keen ability to translate design mockups and

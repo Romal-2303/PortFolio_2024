@@ -38,6 +38,7 @@ import typescript from "./tech/typescript.png";
 import graphql from "./tech/graphql.png";
 import postgresql from "./tech/postgresql.png";
 import rubyrails from "./tech/rubyrails.png";
+import nextjs from "./tech/Next.svg";
 
 import coverhunt from "./company/coverhunt.png";
 import factriai from "./company/factriai.png";
@@ -46,10 +47,14 @@ import microverse from "./company/microverse.png";
 
 import AdminDashboard from "./projects/admin_dashboard.png";
 import TicTacToe from "./projects/game_tictactoe.png";
+import Crypto from "./projects/Crypto.png";
+import Ecommerce from "./projects/Ecommerce.png";
+import Redmail from "./projects/Redmail.png";
 import GeoGuesser from "./projects/game_geoguesser.png";
 import BarChart from "./projects/3d_barchart.png";
 import nyeusi from "./projects/nyeusi.png";
 import space from "./projects/space-hub.png";
+import Team from "./icons/Team.svg";
 
 export {
   bwmap,
@@ -90,6 +95,9 @@ export {
   typescript,
   AdminDashboard,
   TicTacToe,
+  Ecommerce,
+  Crypto,
+  Redmail,
   GeoGuesser,
   BarChart,
   nyeusi,
@@ -98,4 +106,6 @@ export {
   factriai,
   suseco,
   microverse,
+  Team,
+  nextjs,
 };
